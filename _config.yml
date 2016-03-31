@@ -1,0 +1,14 @@
+layout_spectrum: 0.9799141
+typography_spectrum: 0.1669507
+color:
+  saturation: 0.04441557
+  lightness: 0.6025432
+  brandStrength: 0.6865438
+  rhythmicContrast: 0.05704597
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: philos
